@@ -1,4 +1,4 @@
-##_**Programming Portfolio**_
+## _**Programming Portfolio**_
 
 #### _Week One Independent Project Git, HTML, and CSS_
 
@@ -20,7 +20,7 @@ _A programming Portfolio, with links to all my current GitHub projects from Week
 * _git_
 * _bootstrap_
 
- _####License_
+#### _License_
 
  _This software is licensed under an MIT license._
  _Copyright (c) 2019_ _Anna Gibbons_
