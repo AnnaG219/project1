@@ -1,26 +1,26 @@
-##_Programming Portfolio_
+##_**Programming Portfolio**_
 
-####_{Week One Independent Project Git, HTML, and CSS}_
+#### _Week One Independent Project Git, HTML, and CSS_
 
-####_Anna Gibbons_
+#### _Anna Gibbons_
 
 _A programming Portfolio, with links to all my current GitHub projects from Week One at Epicodus, To showcase usage of CSS, git, and HTML, with variety of HTML tags, box models, floats, bootstrap classes, cascading and a custom CSS Stylesheet. Includes an about me section, Interests and Hobbies, Education and Employment Background._
 
 ### _Installation_
-* Open Github page and Clone this repository
-* Open Finder and search for repository
-* Drag Repository into web browser
+* _Open Github page and Clone this repository_
+* _Open Finder and search for repository_
+* _Drag Repository into web browser_
 
 
 [Click Here to Visit](https://github.com/AnnaG219/project1.git)
 
-###_Technologies used_
-* css
-* html
-* git
-* bootstrap
+### _Technologies used_
+* _css_
+* _html_
+* _git_
+* _bootstrap_
 
- ####_License_
+ _####License_
 
  _This software is licensed under an MIT license._
- _Copyright (c) 2019_ Anna Gibbons
+ _Copyright (c) 2019_ _Anna Gibbons_
