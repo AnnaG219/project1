@@ -12,7 +12,7 @@ _A programming Portfolio, with links to all my current GitHub projects from Week
 * _Drag Repository into web browser_
 
 
-[Click Here to Visit](https://github.com/AnnaG219/project1.git)
+[Click Here to Visit](https://annag219.github.io/project1/)
 
 ### _Technologies used_
 * _css_
